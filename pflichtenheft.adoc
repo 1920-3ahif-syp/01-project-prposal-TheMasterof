@@ -1,0 +1,37 @@
+= Pflichtenheft +
+paul binder
+Version 0.2, 17.12.2015                                             
+:sectnums:                                                         
+:toc:                                                               
+:toclevels: 4                                       
+:toc-title: Flight-Log
+
+
+== Ausgangszustand
+
+Ausgegangen wird von einer handelsüblichen Drohne, die in der HTL Leonding von den Schülern benutzt wird.
+
+== Ist-Zustand
+
+Zur Zeit ist nicht Nachweisbar, wer zu welcher Uhrzeit mit der Drohne fliegt.
+
+== Problemstellung
+
+Ohne einen Nachweis wer die Drohne wann und wo gesteuert hat, gibt es ein Problem mit der Austro Control. Speziel wenn die Drohnen in einem öffentlichen Luftraum fliegen, da es zu einem stoppen des Flugverkehrs führen kann.
+
+== Aufgabenstellung
+
+Es ist ein Programm zu erstellen, dass dem Nutzer eine rasche Auskunft über die Nutzung zu einer bestimmten Zeit und an einem bestimmten Ort informiert. 
+
+== Zielsetzung
+
+Ziel des Projektes ist es, die Benutzung einer Drohne besser verfolgen zu können.
+
+== Funktionale Anforderungen
+
+* Reservierungen für die Drohne anzeigen +
+* Anzeigen der Verwendung zu einer bestimmten Zeit +
+* Anzeigen der Nutzungen einer gewissen Person
+
+== Nichtfunktionale Anforderungen
+
