@@ -1,9 +1,9 @@
 = Pflichtenheft +
-paul binder
+Binder Paul, Ecker Benjamin, Plakolb Marcel
 Version 0.2, 17.12.2015                                             
-:sectnums:                                                         
-:toc:                                                               
-:toclevels: 4                                       
+:sectnums:              
+:toc:    
+:toclevels: 4  
 :toc-title: Flight-Log
 
 
@@ -35,3 +35,6 @@ Ziel des Projektes ist es, die Benutzung einer Drohne besser verfolgen zu könne
 
 == Nichtfunktionale Anforderungen
 
+* Einfache Bedienung +
+* Rasche Verarbeitung +
+* Funktionale Benutzeroberfläche
