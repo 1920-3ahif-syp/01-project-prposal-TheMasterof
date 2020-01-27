@@ -1,0 +1,12 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor Benutzer
+actor Verwalter
+rectangle DigitalesDrohnenfahrtenbuch{
+  Benutzer -- (trägt Benutzung ein)
+  (trägt Benutzung ein) -- Verwalter
+  Benutzer -- (reserviert Termin)
+  (reserviert Termin) -- Verwalter
+}
+@enduml
